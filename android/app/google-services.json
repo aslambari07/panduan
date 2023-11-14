@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "885389546102",
+    "project_id": "aneka-belut",
+    "storage_bucket": "aneka-belut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885389546102:android:f38a96a0ac9d5898bb0557",
+        "android_client_info": {
+          "package_name": "com.webmediatrainingcenter.anekanpanduan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885389546102-r6e26icm34su245fva67tjbnr30cealo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webmediatrainingcenter.anekanpanduan",
+            "certificate_hash": "97113150d568d68996d692e5caaae947fd8b4e25"
+          }
+        },
+        {
+          "client_id": "885389546102-7joo2g2eugal2gn1q3ellcfkn228lvho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd0HjPhdXloO18BHtscWyX8tyB-Mbrp0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885389546102-7joo2g2eugal2gn1q3ellcfkn228lvho.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "885389546102-fhd3fsiqs7r2oibqej2d6hn1tiib3j2f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.neews"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

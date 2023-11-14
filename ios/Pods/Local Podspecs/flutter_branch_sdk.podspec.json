@@ -1,0 +1,34 @@
+{
+  "name": "flutter_branch_sdk",
+  "version": "6.4.0",
+  "summary": "Flutter Plugin for create deep link using Brach SDK (https://branch.io). This plugin provides a cross-platform (iOS, Android, Web).",
+  "description": "Flutter Plugin for create deep link using Brach SDK (https://branch.io). This plugin provides a cross-platform (iOS, Android, Web).",
+  "homepage": "https://github.com/RodrigoSMarques/flutter_branch_sdk",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Rodrigo S. Marques": "rodrigosmarques@gmail.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "dependencies": {
+    "Flutter": [
+
+    ],
+    "BranchSDK": [
+      "~> 2.1.0"
+    ]
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "pod_target_xcconfig": {
+    "DEFINES_MODULE": "YES",
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "i386"
+  },
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

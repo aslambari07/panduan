@@ -1,0 +1,531 @@
+{
+    
+    "onboarding_one_title": "Congratulations",
+    "@onboarding_one_title":{
+        "description": "onboarding one title"
+    },
+
+    "onboarding_one_description": "on taking the first step towards staying informed with our news app. We promise to keep you informed on all the latest news, no matter where you are",
+    "@onboarding_one_description":{
+        "description": "onboarding one description"
+    },
+
+
+    "onboarding_two_title": "We're thrilled",
+    "@onboarding_two_title":{
+        "description": "onboarding two title"
+    },
+
+    "onboarding_two_description": "that you've chosen our news app to stay up-to-date on what's happening around the world. With us, you can expect reliable and timely news coverage",
+    "@onboarding_two_description":{
+        "description": "onboarding two description"
+    },
+
+
+    "onboarding_three_title": "Get the news you need,",
+    "@onboarding_three_title":{
+        "description": "onboarding three title"
+    },
+
+    "onboarding_three_description": "when you need it. Our news app delivers accurate and reliable news coverage on the go, so you can stay informed no matter where you are",
+    "@onboarding_three_description":{
+        "description": "onboarding three description"
+    },
+
+    "get_started": "Get Started",
+    "@get_started":{
+        "description": "get started"
+    },
+
+    "skip": "Skip",
+    "@skip": {
+        "description": "skip"
+    },
+
+    "sign_in_to_account": "Sign In to\n your Account",
+    "@sign_in_to_account": {
+        "description": "sign in to account"
+    },
+
+    "sign_in_sub_text": "Sign in to your account to get access to latest news and your bookmarks and liked news",
+    "@sign_in_sub_text": {
+        "description": "sign_in_sub_text"
+    },
+    
+    "continue_with_email": "Continue with Email",
+    "@continue_with_email": {
+        "description": "continue with email" 
+    },
+
+    "sign_in_with_google": "Sign In with Google",
+    "@sign_in_with_google": {
+        "description": "sign_in_with_google"
+    },
+
+    "dont_have_account": "Don't have an account ?",
+    "@dont_have_account": {
+        "description": "dont have account"
+    },
+
+    "create_account": "Create account",
+    "@create_account": {
+        "description": "create account"
+    },
+
+    "welcome_back": "Welcome Back !",
+    "@welcome_back": {
+        "description": "welcome back"
+    },
+
+    "login_subtext": "Enter your to login to your account",
+    "@login_subtext": {
+        "description": "login subtext"
+    },
+
+    "email": "Email",
+    "@email": {
+        "description": "email"
+    },
+
+    "password": "Password",
+    "@password": {
+        "description": "password"
+    },
+
+    "forgot_password": "Forgot Passowrd ?",
+    "@forgot_password": {
+        "description": "forgot_password"
+    },
+
+    "login": "Login",
+    "@login": {
+        "description": "login"
+    },
+
+    "welcome_to_app": "Welcome to ",
+    "@welcome_to_app": {
+        "description": "welcome to app"
+    },
+
+    "sign_up_subtext": "Enter to your details to create account",
+    "@sign_in_sub_text": {
+        "description": "sign_up_subtext"
+    },
+
+    "name": "Name",
+    "@name": {
+        "description": "name"
+    },
+
+    "i_have_read": "I have read all ",
+    "@i_have_read": {
+        "description": "i have read"
+    },
+
+    "terms_privacy_policy": "Terms & Privacy Policy",
+    "@terms_privacy_policy": {
+        "description": "terms privacy policy"
+    },
+
+    "already_have_an_account": "Already have an account ?",
+    "@already_have_an_account": {
+        "description" : "already have an account"
+    },
+
+    "forgot_your_password": "Forgot your password ?",
+    "@forgot_your_password": {
+        "description" : "forgot_your_password"
+    },
+
+    "reset_password_subtext": "Enter your email to reset your password",
+    "@reset_password_subtext": {
+        "description": "reset password subtext"
+    },
+
+    "reset_password": "Reset Password",
+    "@reset_password": {
+        "description": "reset password"
+    },
+
+    "app_will_send": "will send a password reset email on your registered email address",
+    "@app_will_send": {
+        "description": "app will send"
+    },
+
+    "didnt_receive_email": "Didn't received any email ?",
+    "@didnt_receive_email": {
+        "description" : "didnt_receive_email"
+    },
+
+    "resend_email": "Resend Email",
+    "@resend_email": {
+        "description": "resend email"
+    },
+
+    "verify_your_email": "Verify your email",
+    "@verify_your_email": {
+        "description" : "verify your email"
+    },
+
+    "verification_subtext": "Verify your email to continue",
+    "@verification_subtext": {
+        "description" : "verification subtext"
+    },
+
+    "check_inbox": "Check your inbox, We have send you a verification email on your entered email address for verification",
+    "@check_inbox" : {
+        "description": "check inbox"
+    },
+
+    "proceed": "Proceed",
+    "@proceed": {
+        "description": "proceed"
+    },
+
+    "select_your_intrest": "Select \nyour Interest",
+    "@select_your_intrest":{
+        "description": "select your intrest"
+    },
+
+    "select_your_intrest_subtext": "Select categories that you are interested to read and receive updates faster",
+    "@select_your_intrest_subtext": {
+        "description": "select your intrest subtext"
+    },
+
+    "choose": "Choose",
+    "@choose": {
+        "description": "choose"
+    },
+
+    "home": "Home",
+    "@home" : {
+        "description": "home"
+    },
+
+    "video": "Video",
+    "@video" : {
+        "description": "Video"
+    },
+
+    "search": "Search",
+    "@search" : {
+        "description": "search"
+    },
+
+    "account": "Account",
+    "@account" : {
+        "description": "account"
+    },
+
+    "welcome" : "Welcome",
+    "@welcome": {
+        "description": "welcome"
+    },
+
+    "settings": "Settings",
+    "@settings": {
+        "description" : "settings"
+    },
+
+    "saved": "Saved",
+    "@saved": {
+        "description": "saved"
+    },
+
+    "manage_preferences": "Manage Preferences",
+    "@manage_preferences": {
+        "description" : "manage preferences"
+    },
+
+    "dark_mode": "Dark Mode",
+    "@dark_mode" : {
+        "description" : "dark mode"
+    },
+
+    "change_language": "Change Language",
+    "@change_language": {
+        "description" : "change language"
+    },
+
+    "notifications": "Notifications",
+    "@notifications": {
+        "description": "notifications"
+    },
+
+    "privacy_policy": "Privacy Policy",
+    "@privacy_policy": {
+        "description" : "privacy policy"
+    },
+
+    "contact_us": "Contact Us",
+    "@contact_us": {
+        "description" : "contact us"
+    },
+
+    "logout": "Logout",
+    "@logout": {
+        "description": "logout"
+    },
+
+    "about_us": "About Us",
+    "@about_us":{
+        "description": "about us"
+    },
+
+    "logout_text": "Are you sure you want to logout ?",
+    "@logout_text":{
+        "description": "logout text"
+    },
+
+    "cancel": "Cancel",
+    "@cancel":{
+        "description": "Cancel"
+    },
+
+    "add_preferences": "Add Preferences",
+    "@add_preferences": {
+        "description": "add_preferences"
+    },
+
+    "max_font_size_reached_message": "Maximum font size limit reached",
+    "@max_font_size_reached_message":{
+        "description": "max font reached message"
+    },
+
+    "min_font_size_reached_message": "Minimum font size limit reached",
+    "@min_font_size_reached_message":{
+        "description": "min font size reached message"
+    },
+
+    "save": "Save",
+    "@save":{
+        "description" : "save"
+    },
+
+    "saved": "Saved",
+    "@saved":{
+        "description": "saved"
+    },
+
+    "explore_categories": "Explore Categories",
+    "@explore_categories" :{
+        "description" : "explore_categories"
+    },
+
+    "contact_us_description": "Our team is ready to assist you with any questions, comments, or concerns you may have. We strive to respond to all emails promptly and provide you with the assistance you need. Please feel free to email us with any inquiries, feedback, or suggestions. We look forward to hearing from you and providing you with the best possible service",
+    "@contact_us_description": {
+        "description": "contact us description"
+    },
+
+    "send_mail": "Send Mail",
+    "@send_mail": {
+        "description": "send mail"
+    },
+
+    "discover_the_world": "Discover the world",
+    "@discover_the_world": {
+        "description": "discover_the_world"
+    },
+
+    "trending_news": "Trending News",
+    "@trending_news": {
+        "description" : "trending news"
+    },
+
+    "breaking_news": "Breaking News",
+    "@breaking_news": {
+        "description": "breaking_news"
+    },
+
+    "more": "more",
+    "@more":{
+        "description": "more"
+    },
+
+    "explore_more": "Explore more",
+    "@explore_more" : {
+        "description": "explore more"
+    },
+
+    "selected_for_you": "Selected for you",
+    "@selected_for_you" : {
+        "description": "selected for you"
+    },
+
+    "verification_email_sent": "Verification email sent",
+    "@verification_email_sent": {
+        "description" : "verification email sent"
+    },
+
+    "some_error_occurred": "Some error occurred",
+    "@some_error_occurred": {
+        "description" : "some error occurred"
+    },
+
+    "your_email_is_not_verified": "Your email address is not verified",
+    "@your_email_is_not_verified": {
+        "description": "your email is not verified"
+    },
+
+    "enter_your_email_address": "Enter your email address",
+    "@enter_your_email_address": {
+        "description": "enter your email address"
+    },
+
+    "enter_valid_email": "Enter a valid email address",
+    "@enter_valid_email": {
+        "description": "enter valid email"
+    },
+
+    "enter_your_password": "Enter your password",
+    "@enter_your_password": {
+        "description": "enter your password"
+    },
+
+    "no_account_found_with_entered_email": "No account found with entered email address",
+    "@no_account_found_with_entered_email": {
+        "description" : "no account found with entered email"
+    },
+
+    "incorrect_password": "Incorrect Password",
+    "@incorrect_password": {
+        "description": "incorrect password"
+    },
+
+    "invalid_email_address": "Invalid email address",
+    "@invalid_email_address": {
+        "description": "invalid email address"
+    },
+
+    "remove": "Remove",
+    "@remove": {
+        "description": "Remove"
+    },
+
+    "password_reset_email_sent": "Password reset email sent to your email address",
+    "@password_reset_email_sent":{
+        "description": "password reset email sent"
+    },
+
+    "search_result_for": "Search results for",
+    "@search_result_for": {
+        "description": "search result for"
+    },
+
+    "article": "Article",
+    "@article": {
+        "description": "article"
+    },
+
+    "video": "Video",
+    "@video": {
+        "description": "video"
+    },
+
+    "search_articles_videos": "Search articles, videos and many more …",
+    "@search_result_for":{
+        "description": "search_articles_videos"
+    },
+
+    "recommended_for_you": "Recommended for you",
+    "@recommended_for_you": {
+        "description": "recommended for you"
+    },
+
+    "enter_your_name": "Enter your name",
+    "@enter_your_name": {
+        "description": "enter your name"
+    },
+
+    "create_a_strong_password": "Create a strong password",
+    "@create_a_strong_password": {
+        "description": "create a strong password"
+    },
+
+    "password_is_weak": "Password is too weak",
+    "@password_is_weak": {
+        "description": "password is weak"
+    },
+
+    "account_already_exist": "An account already exist with entered email address",
+    "@account_already_exist": {
+        "description": "account already exist"
+    },
+
+    "password_minimum": "Password should be minimum 6 characters",
+    "@password_minimum": {
+        "description": "password minimum"
+    },
+
+    "please_agree_privacy_policy": "Please agree to our terms & privacy policy",
+    "@please_agree_privacy_policy": {
+        "description": "please agree privacy policy"
+    },
+
+    "error_occurred":"Oops! some error occurred please try again later",
+    "@error_occurred" : {
+        "description":"some error occurred"
+    },
+
+    "bookmarks":"Bookmarks",
+    "@bookmarks":{
+        "description":" bookmarks"
+    },
+
+    "no_articles_available":"No articles availabe at this moment",
+    "@no_articles_available":{
+        "description":"no articles available"
+    },
+
+    "no_articles_found":"No articles found",
+    "@no_articles_found":{
+        "description":"no articles found"
+    },
+
+    "check_out_this":"Check out this amazing video",
+    "@check_out_this":{
+        "description":"check out this"
+    },
+
+    "read_out_this":"Read this amazing ",
+    "@read_out_this":{
+        "description":"Read this amazing"
+    },
+
+    "saved_articles":"Saved Articles",
+    "@saved_articles":{
+        "description":"saved articles"
+    },
+
+    "no_internet_connection":"No Internet Connection",
+    "@no_internet_connection":{
+        "description":"no internet connection"
+    },
+
+    "please_connect_to_internet":"Please connect to a internet connection in order to continue using the app",
+    "@please_connect_to_internet":{
+        "description":"please_connect_to_internet"
+    },
+
+    "try_again":"Try again",
+    "@try_again":{
+        "description":"try again"
+    },
+
+    "a_day_ago":"a day ago",
+    "@a_day_ago":{
+        "description":"a day ago"
+    },
+
+    "update_your_name":"Update your name",
+    "@update_your_name":{
+        "description":"update your name "
+    },
+
+    "update":"Update",
+    "@update":{
+        "description":"update"
+    }
+
+
+}
