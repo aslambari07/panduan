@@ -7,7 +7,7 @@ import 'package:anekapanduan/utils/strings.dart';
 
 const String appName = 'Aneka Panduan';
 const String companyName = 'WEBMEDIA INTERNUSA TATA UTAMA';
-const String adminPanelUrl = 'http://192.168.18.92/';
+const String adminPanelUrl = 'http://192.168.1.11/';
 const String firebaseServerKey =
     'AAAAziVUUnY:APA91bFdPBNV-77-HSFo7D1fCNaEZ8Q7slzsby-vZUTMlomgIt8nJ5zbjuDokBpPwhE7iJqOcoupsM8l7fkUbsfMLnxVm-34lzQH8WZmNosPPPMLv0aQ3pyObgqbdLpQZZzpFXSmL3w_';
 const Locale defaultAppLanguage = Locale('en');

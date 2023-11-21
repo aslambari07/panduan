@@ -88,33 +88,44 @@ class FirebaseApi {
       if (articleId != null && articleId.isNotEmpty) {
         Article? article =
             articleController.getArticleDetails(articleId) as Article?;
-        Navigator.of(context).push(
-          MaterialPageRoute(
-            builder: (context) {
-              return ArticleScreen(articleId: article!.id);
-            },
-          ),
-        );
 
-        flutterLocalNotificationsPlugin.show(
-          notification.hashCode,
-          notification.title,
-          notification.body,
-          payload: jsonEncode(message.toMap()),
-          NotificationDetails(
-            android: AndroidNotificationDetails(
-              channel.id,
-              channel.name,
-              channelDescription: channel.description,
-              icon: '@mipmap/ic_launcher',
-            ),
-          ),
-        );
+        if (article != null) {
+          print('Article ID: ${articleId}');
+          WidgetsFlutterBinding.ensureInitialized();
+
+          if (context != null) {
+            print("Navigating to ArticleScreen with articleId: $articleId");
+            Navigator.of(context).push(
+              MaterialPageRoute(
+                builder: (context) {
+                  return ArticleScreen(articleId: articleId);
+                },
+              ),
+            );
+
+            flutterLocalNotificationsPlugin.show(
+              notification.hashCode,
+              notification.title,
+              notification.body,
+              payload: jsonEncode(message.toMap()),
+              NotificationDetails(
+                android: AndroidNotificationDetails(
+                  channel.id,
+                  channel.name,
+                  channelDescription: channel.description,
+                  icon: '@mipmap/ic_launcher',
+                ),
+              ),
+            );
+          } else {
+            print("BuildContext tidak valid.");
+          }
+        } else {
+          print("articleId tidak valid atau kosong.");
+        }
       } else {
-        print("articleId tidak valid atau kosong.");
+        print("Data notifikasi tidak valid.");
       }
-    } else {
-      print("Data notifikasi tidak valid.");
     }
   }
 
